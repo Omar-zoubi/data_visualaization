@@ -6,6 +6,11 @@ authors = ["Omar-zoubi <o.fandi02@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+matplotlib = "^3.4.2"
+pandas = "^1.2.4"
+sklearn = "^0.0"
+jupyterlab = "^3.0.16"
+seaborn = "^0.11.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
